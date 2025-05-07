@@ -6,4 +6,7 @@ public class Item
     public int OnHand { get; set; }
     public string BinCode { get; set; }
     public decimal Price { get; set; }
+     public decimal Mayoreo { get; set; } // Lista 12
+
+      public string ImageUrl { get; set; }
 }

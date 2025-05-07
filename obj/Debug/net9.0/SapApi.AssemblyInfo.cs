@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SapApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c627ff7bbc0b53c44ca938b233a5eb77226bb51")]
 [assembly: System.Reflection.AssemblyProductAttribute("SapApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SapApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

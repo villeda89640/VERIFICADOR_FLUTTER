@@ -5,7 +5,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,
-      "applicationUrl": "http://localhost:5106",
+      "applicationUrl": "http://192.168.1.162:5106",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
